@@ -1,0 +1,22 @@
+{
+  "name": "valentines_blossoming_flower",
+  "version": "1.0.0",
+  "description": "Welcome to **Valentines Blossoming Flower**, a beautifully designed interactive webpage to surprise your loved one! This project creates a romantic digital experience where users are prompted with a question: **\"Will You Be My Valentine?\"** and are given an engaging and fun way to respond.",
+  "main": "main1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junayed-hasan/valentines_blossoming_flower.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/junayed-hasan/valentines_blossoming_flower/issues"
+  },
+  "homepage": "https://github.com/junayed-hasan/valentines_blossoming_flower#readme"
+}
